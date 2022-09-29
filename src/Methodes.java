@@ -1,5 +1,7 @@
 import java.util.*;
 
+
+
 public class Methodes {
     /*De volgende 16 methodes zijn aanvallen*/
     void surf(Pokemon name, Pokemon enemy);

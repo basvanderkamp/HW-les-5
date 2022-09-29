@@ -5,6 +5,7 @@ worden deze concepten vaak uitgelegd aan de hand van dieren of andere levende we
 
 ## Opdrachtbeschrijving
 
+
 Je gaat een applicatie programmeren waarmee een speler via de commandline een spel kan spelen. Degenen die bekend zijn met Pokèmon weten
 dat deze altijd een _type_ hebben (sterker nog: Pokémon kunnen meerdere types tegelijk zijn, maar om het niet te moeilijk
 te maken, maken we gebruik van één type per Pokémon). Voorbeelden van deze typen zijn: Fire 🔥, Water 🌊, Grass 🌿 en
